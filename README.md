@@ -13,6 +13,4 @@ DB_USER='root'
 DB_PASSWORD='password'
 DB_SECRET='secret'
 
-
-![Alt text]()
-![Alt text]()
+Open /db/schema.sql and execute the two queries in this file.
